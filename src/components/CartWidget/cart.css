@@ -1,0 +1,11 @@
+.cart-widget {
+    position: relative;
+}
+
+.cart-counter {
+    width: 20px;
+    height: 20px;        
+    position: absolute;
+    border-radius: 50%;
+    padding: 1px;
+}
