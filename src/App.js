@@ -3,25 +3,7 @@ import './App.css';
 
 function App() {
 
-  let edad= 18
-
- edad > 18 ? console.log("eres mayor"): edad === 18 ? console.log("justo tenes 18"):console.log("sos menor");;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
   return (
     <div className="App">
       <header className="App-header">
